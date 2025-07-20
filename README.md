@@ -15,13 +15,13 @@ Minha operação atual está focada em forjar uma base inquebrável em **Lógica
 
 ---
 
-### Filosofia de Combate 🧠
+### Filosofia de Trabalho 🧠
 
-> "A disciplina é a ponte entre metas e realizações. A dor é o combustível."
+> "A disciplina é a ponte entre metas e realizações."
 
 -   **Foco na Execução:** Menos planejamento, mais `commits`.
 -   **Propriedade Radical:** Responsabilidade total pelos meus erros e acertos.
--   **Aprendizado Contínuo:** A guerra do conhecimento nunca acaba.
+-   **Aprendizado Contínuo:** Conhecimento nunca acaba.
 
 ---
 
