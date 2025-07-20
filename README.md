@@ -1,34 +1,53 @@
 # Enzo Ferreira Soares
 
-Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins) em uma jornada disciplinada para me tornar um Engenheiro de DevOps & Cloud.
-
-Minha operação atual está focada em forjar uma base inquebrável em **Lógica de Programação** e **fundamentos de Python**, construindo pequenos sistemas e resolvendo problemas algorítmicos. Cada `commit` neste perfil é um passo na minha missão de transição de carreira.
-
----
-
-###  Arsenal em Treinamento ⚔️
-
-| Linguagem Principal | Ferramentas de Combate |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+🎯 Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins)  
+🚧 Em transição para o mercado tech, com foco total em lógica de programação, Git e fundamentos de Python.  
+🛠️ Praticando diariamente com projetos pequenos, scripts funcionais e desafios resolvidos no terminal.  
 
 ---
 
-### Filosofia de Trabalho 🧠
+## 💻 Tecnologias em uso
 
-> "A disciplina é a ponte entre metas e realizações."
-
--   **Foco na Execução:** Menos planejamento, mais `commits`.
--   **Propriedade Radical:** Responsabilidade total pelos meus erros e acertos.
--   **Aprendizado Contínuo:** Conhecimento nunca acaba.
+| Linguagem   | Ferramentas       |
+|-------------|-------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Git, VSCode, Terminal (WSL) |
 
 ---
 
-### Missão Atual 🎯
+## 🧠 O que estou construindo
 
-Foco total na **`Formação Lógica de Programação`** da @Rocketseat, traduzindo cada conceito teórico em código prático e funcional.
+- Resolução de desafios de lógica com Python puro
+- Automatizações simples no terminal com entrada de usuário
+- Scripts que simulam fluxos de autenticação, validação de dados e cálculos
+- Uso de Git com commits semânticos, organizando versões de cada melhoria
+- Organização de repositórios com README, histórico de aprendizado e explicação do que foi feito
 
-📈 **Meu Diário de Guerra:**
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enzosoaresdev&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📌 Missão Atual
+
+> Construir uma base sólida com fundamentos antes de avançar para frameworks, APIs ou DevOps.
+
+- Refatorar os scripts atuais com boas práticas (funções, modularização)
+- Adicionar persistência com `.txt` nos projetos
+- Iniciar orientação a objetos (OOP) com projetos pequenos
+- Manter streak de commits diários como disciplina de execução
+
+---
+
+## 🗂️ Repositórios em destaque
+
+- [desafios-logica-python](https://github.com/enzosoaresdev/desafios-logica-python)  
+  Repositório onde aplico os conceitos básicos de programação resolvendo problemas com Python, incluindo:
+  - sistema de login com bloqueio
+  - validação de números
+  - FizzBuzz
+  - comparações, loops e contadores
+
+---
+
+## 📈 Progresso
+
+```text
+Commits diários = prática constante
+Cada commit = uma nova batalha vencida
