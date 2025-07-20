@@ -1,8 +1,34 @@
-###  Arsenal Tecnológico ⚔️
+# Enzo Ferreira Soares
 
-| Linguagem Principal | Aprendendo Atualmente | Alvos Futuros (DevOps & Cloud) | Ferramentas |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| | | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
-| | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | |
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins) em uma jornada disciplinada para me tornar um Engenheiro de DevOps & Cloud.
+
+Minha operação atual está focada em forjar uma base inquebrável em **Lógica de Programação** e **fundamentos de Python**, construindo pequenos sistemas e resolvendo problemas algorítmicos. Cada `commit` neste perfil é um passo na minha missão de transição de carreira.
+
+---
+
+###  Arsenal em Treinamento ⚔️
+
+| Linguagem Principal | Ferramentas de Combate |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+
+---
+
+### Filosofia de Combate 🧠
+
+> "A disciplina é a ponte entre metas e realizações. A dor é o combustível."
+
+-   **Foco na Execução:** Menos planejamento, mais `commits`.
+-   **Propriedade Radical:** Responsabilidade total pelos meus erros e acertos.
+-   **Aprendizado Contínuo:** A guerra do conhecimento nunca acaba.
+
+---
+
+### Missão Atual 🎯
+
+Foco total na **`Formação Lógica de Programação`** da @Rocketseat, traduzindo cada conceito teórico em código prático e funcional.
+
+📈 **Meu Diário de Guerra:**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=enzosoaresdev&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
