@@ -1,53 +1,33 @@
 # Enzo Ferreira Soares
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins)  
-🚧 Em transição para o mercado tech, com foco total em lógica de programação, Git e fundamentos de Python.  
-🛠️ Praticando diariamente com projetos pequenos, scripts funcionais e desafios resolvidos no terminal.  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-## 💻 Tecnologias em uso
-
-| Linguagem   | Ferramentas       |
-|-------------|-------------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Git, VSCode, Terminal (WSL) |
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins)  
+Foco em lógica de programação com Python, terminal Linux (WSL) e versionamento com Git.
 
 ---
 
-## 🧠 O que estou construindo
+### 📌 Em andamento
 
-- Resolução de desafios de lógica com Python puro
-- Automatizações simples no terminal com entrada de usuário
-- Scripts que simulam fluxos de autenticação, validação de dados e cálculos
-- Uso de Git com commits semânticos, organizando versões de cada melhoria
-- Organização de repositórios com README, histórico de aprendizado e explicação do que foi feito
+- Resolução de desafios práticos com Python puro
+- Criação de scripts com entrada e validação de dados
+- Uso de Git com histórico de commits limpo e semântico
 
 ---
 
-## 📌 Missão Atual
+### 📁 Projetos
 
-> Construir uma base sólida com fundamentos antes de avançar para frameworks, APIs ou DevOps.
-
-- Refatorar os scripts atuais com boas práticas (funções, modularização)
-- Adicionar persistência com `.txt` nos projetos
-- Iniciar orientação a objetos (OOP) com projetos pequenos
-- Manter streak de commits diários como disciplina de execução
+🔹 [**desafios-logica-python**](https://github.com/enzosoaresdev/desafios-logica-python)  
+> Repositório com exercícios de lógica, autenticação, laços de repetição, validações e cálculos.
 
 ---
 
-## 🗂️ Repositórios em destaque
+### 📬 Contato
 
-- [desafios-logica-python](https://github.com/enzosoaresdev/desafios-logica-python)  
-  Repositório onde aplico os conceitos básicos de programação resolvendo problemas com Python, incluindo:
-  - sistema de login com bloqueio
-  - validação de números
-  - FizzBuzz
-  - comparações, loops e contadores
-
----
-
-## 📈 Progresso
-
-```text
-Commits diários = prática constante
-Cada commit = uma nova batalha vencida
+[LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+[GitHub](https://github.com/enzosoaresdev)
