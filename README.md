@@ -17,19 +17,23 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins), usando minha e
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzosoaresdev&show_icons=true&theme=tokyonight" alt="Enzo GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosoaresdev&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosoaresdev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=enzosoaresdev&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosoaresdev&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosoaresdev&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,4 +41,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins), usando minha e
 
 - [LinkedIn](https://www.linkedin.com/in/enzo-ferreira-soares)
 - [GitHub](https://github.com/enzosoaresdev)
-
