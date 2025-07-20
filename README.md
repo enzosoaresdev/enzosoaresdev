@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins), usando minha e
 
 ---
 
-🎓 Estudante de ADS (FATEC Lins)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC Lins)  
 📍 Foco total em lógica de programação com Python  
 🧠 Aprendizado na prática: terminal, Git, scripts, disciplina diária  
 📦 Documentando tudo no GitHub com organização e constância  
